@@ -5,4 +5,15 @@ There may be a lot of commits to the main branch directly in this repository. Wh
 
 Learning Log:
 Day 1: Learning the basics, leading up to building a basic calculator with the basic +, -, *, / operators. (Input and Output Streams)
-Day 2: L
+
+Day 2: 
+
+Day 3: 
+
+Day 4: 
+
+Day 5: 
+
+Day 6:
+
+Day 7:
